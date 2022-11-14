@@ -17,6 +17,8 @@ public class App {
 	 * @param args String[]
 	 */
 	public static void main(String[] args) {
+		
+		System.out.println("Hola mundo!");
 		/**
 		 * Metodos para pruebas Commons Lang
 		 */
